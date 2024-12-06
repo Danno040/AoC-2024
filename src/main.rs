@@ -1,6 +1,7 @@
 mod day1;
 mod day2;
+mod day3;
 
 fn main() {
-    day2::process_input("./inputs/day2.txt");
+    day3::process_input("./inputs/day3.txt");
 }
